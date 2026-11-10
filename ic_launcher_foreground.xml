@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- labios -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M26,50 C30,40 40,36 47,39 Q54,36 61,39 C68,36 78,40 82,50 C78,64 66,72 54,72 C42,72 30,64 26,50 Z" />
+    <path android:fillColor="#FF2BD6"
+        android:pathData="M29,50 C33,42 41,39 47,41.5 Q54,39 61,41.5 C67,39 75,42 79,50 C75,62 65,69 54,69 C43,69 33,62 29,50 Z" />
+    <!-- interior -->
+    <path android:fillColor="#3A0A2E"
+        android:pathData="M36,50 Q54,44 72,50 Q54,60 36,50 Z" />
+    <!-- lengua -->
+    <path android:fillColor="#FF5C8A"
+        android:pathData="M46,53 L62,53 L61,70 C61,77 47,77 47,70 Z" />
+    <!-- papelito -->
+    <path android:fillColor="#FFE83B"
+        android:pathData="M49,63 L59,63 L59,73 L49,73 Z" />
+    <path android:fillColor="#1EE8D8"
+        android:pathData="M49,68 L59,68 L59,73 L49,73 Z" />
+    <!-- brillo -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M36,45 Q40,42 44,43 Q40,45 36,46 Z" />
+</vector>

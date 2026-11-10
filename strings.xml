@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PsychoVolume</string>
+    <string name="channel_floating">Cápsula flotante</string>
+    <string name="channel_floating_desc">Mantiene activa la cápsula de volumen sobre otras apps</string>
+    <string name="notif_floating_title">Cápsula psicodélica activa</string>
+    <string name="notif_floating_text">Toca para abrir PsychoVolume</string>
+    <string name="notif_stop">Detener</string>
+</resources>
